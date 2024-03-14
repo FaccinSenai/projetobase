@@ -1,0 +1,31 @@
+{
+  "name": "projeto_base",
+  "version": "1.0.0",
+  "description": "Node.js o inicio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaccinSenai/projetobase.git"
+  },
+  "keywords": [
+    "JS",
+    "HTML",
+    "NODE",
+    "NODE.JS",
+    "NPM",
+    "GIT",
+    "GITHUB"
+  ],
+  "author": "Faccin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FaccinSenai/projetobase/issues"
+  },
+  "homepage": "https://github.com/FaccinSenai/projetobase#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
